@@ -17,6 +17,6 @@ This bot placed 4th in the competition, due to it's lack of late game strategies
 final_ai.py is the final version of our AI, with the folder Experimental Designs having previous versions of the AI. Segfault 1 and Segfault 2.cfr are replay files showing our AI in action during the matches it won (our team name was Segfault). These replays can be viewed by visiting https://colorfightai.com/replay/local, choosing the "Load Replay" option, and selecting the .cfr file.
 
 ### Contributors ###
- - @ArcainRC - Algorithm/Function Designer
+ - @PranavARC - Algorithm/Function Designer
  - @hyounjunchang - Tester/Experimenter
  - @IanWildenhein - Developer/Code Writer
