@@ -11,7 +11,7 @@ This bot performed best in a game with many players spawned near each other due 
 Zero Gold mines were placed by this bot after the first game.
 
 ## Results ##
-This bot placed 4th in the competition, due to its lack of late-game strategies against the lower number of players in the final round (the AI was optimized to shark players in the early game, which was harder to do with less people).
+This bot placed 4th in the competition, due to its lack of late-game strategies against the lower number of players in the final round (the AI was optimized to shark players in the early game, which was harder to do with less people in the arena).
 
 ## File Information ##
 final_ai.py is the final version of our AI, with the folder Experimental Designs having previous versions of the AI. Segfault 1 and Segfault 2.cfr are replay files showing our AI in action during the matches it won (our team name was Segfault). These replays can be viewed by visiting https://colorfightai.com/replay/local, choosing the "Load Replay" option, and selecting the .cfr file.
